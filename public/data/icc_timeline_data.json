@@ -1,0 +1,110 @@
+[
+  {
+    "year":2002,
+    "type":"ICC",
+    "event":"Rome Statute enters into force",
+    "description":"The ICC is officially established."
+  },
+  {
+    "year":2003,
+    "type":"World",
+    "event":"Invasion of Iraq",
+    "description":"U.S.-led coalition invades Iraq without UN approval."
+  },
+  {
+    "year":2004,
+    "type":"ICC",
+    "event":"First investigation in Uganda",
+    "description":"ICC begins its first investigation into Lord's Resistance Army crimes."
+  },
+  {
+    "year":2005,
+    "type":"World",
+    "event":"Darfur Crisis Peaks",
+    "description":"Mass atrocities in Sudan\u2019s Darfur region spark global outrage."
+  },
+  {
+    "year":2006,
+    "type":"ICC",
+    "event":"Thomas Lubanga Arrested",
+    "description":"Lubanga becomes the first person taken into ICC custody."
+  },
+  {
+    "year":2009,
+    "type":"World",
+    "event":"Sri Lankan Civil War Ends",
+    "description":"Final military offensive results in mass civilian deaths; no ICC case opened."
+  },
+  {
+    "year":2011,
+    "type":"ICC",
+    "event":"Muammar Gaddafi warrant",
+    "description":"ICC issues arrest warrant for Libyan leader during civil war."
+  },
+  {
+    "year":2012,
+    "type":"ICC",
+    "event":"First conviction: Lubanga",
+    "description":"Lubanga convicted for conscripting child soldiers."
+  },
+  {
+    "year":2014,
+    "type":"World",
+    "event":"Israel Attack on Gaza",
+    "description":"Over 2,000 Palestinians were killed during Operation Protective Edge. ICC did not open a prosecution."
+  },
+  {
+    "year":2016,
+    "type":"ICC",
+    "event":"Bemba Conviction",
+    "description":"Jean-Pierre Bemba convicted for war crimes in Central African Republic."
+  },
+  {
+    "year":2018,
+    "type":"World",
+    "event":"Saudi Arabia\u2013Yemen war crimes",
+    "description":"Civilian bombings by Saudi-led coalition; no ICC prosecutions."
+  },
+  {
+    "year":2019,
+    "type":"ICC",
+    "event":"Al Hassan case opens",
+    "description":"Trial begins for Timbuktu destruction and sexual slavery."
+  },
+  {
+    "year":2020,
+    "type":"World",
+    "event":"Tigray conflict begins",
+    "description":"Reports of war crimes in Ethiopia, no ICC action taken."
+  },
+  {
+    "year":2021,
+    "type":"ICC",
+    "event":"Ongwen sentenced",
+    "description":"Dominic Ongwen sentenced to 25 years for war crimes in Uganda."
+  },
+  {
+    "year":2022,
+    "type":"World",
+    "event":"Ukraine invasion",
+    "description":"Russia invades Ukraine; global calls for ICC action."
+  },
+  {
+    "year":2023,
+    "type":"ICC",
+    "event":"Putin warrant",
+    "description":"ICC issues arrest warrant for Vladimir Putin for deportation of Ukrainian children."
+  },
+  {
+    "year":2024,
+    "type":"World",
+    "event":"Start of the Gazan Genocide",
+    "description":"Israeli bombardment of Gaza leads to 30,000+ deaths; ICC issues preliminary statements."
+  },
+  {
+    "year":2025,
+    "type":"ICC",
+    "event":"New case: Al-Kaniyat Militia",
+    "description":"Ongoing prosecution of Libyan warlords responsible for mass executions in Tarhuna."
+  }
+]

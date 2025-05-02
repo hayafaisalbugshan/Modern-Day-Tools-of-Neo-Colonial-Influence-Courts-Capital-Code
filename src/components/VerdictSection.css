@@ -1,0 +1,65 @@
+/* File: src/components/VerdictSection.css */
+.verdict-section {
+    background-color: #111;
+    color: #f0f0f0;
+    padding: 5rem 2rem;
+    text-align: center;
+  }
+  
+  .verdict-section h2 {
+    font-size: 2.8rem;
+    margin-bottom: 1.5rem;
+    color: #f87171;
+  }
+  
+  .verdict-section .summary {
+    font-size: 1.1rem;
+    max-width: 750px;
+    margin: 0 auto 3rem auto;
+    color: #ccc;
+  }
+  
+  .verdict-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+  }
+  
+  @media (min-width: 768px) {
+    .verdict-grid {
+      flex-direction: row;
+      justify-content: center;
+    }
+  }
+  
+  .verdict-box {
+    background: #1f1f1f;
+    padding: 1.5rem 2rem;
+    border-radius: 1rem;
+    max-width: 400px;
+    box-shadow: 0 0 10px rgba(255, 87, 87, 0.3);
+  }
+  
+  .verdict-box h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    color: #f87171;
+  }
+  
+  .verdict-box ul {
+    list-style: none;
+    padding: 0;
+    color: #ddd;
+  }
+  
+  .verdict-box li {
+    margin-bottom: 0.8rem;
+  }
+  
+  .verdict-quote {
+    margin-top: 3rem;
+    font-size: 1.2rem;
+    color: #bbb;
+  }
+  

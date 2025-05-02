@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "DR Congo",
+      "group": "ICC",
+      "description": "No description available."
+    },
+    {
+      "id": "Central African Republic",
+      "group": "ICC",
+      "description": "Central African Republic is governed as a Electoral autocracy. Top exports include gold, wood, diamonds, vehicle parts/accessories, cotton. Key trading partners are UAE, China, France. External debt is $776.149 million. Corruption Index: 24, HDI: 0.387.",
+      "hdi": 0.387,
+      "debt": null
+    },
+    {
+      "id": "Sudan",
+      "group": "ICC",
+      "description": "Sudan is governed as a Closed autocracy. Top exports include crude petroleum, gold, oil seeds, sheep and goats, ground nuts. Key trading partners are UAE, China, Saudi Arabia. External debt is $21.878 billion. Corruption Index: 15, HDI: 0.516.",
+      "hdi": 0.516,
+      "debt": null
+    },
+    {
+      "id": "Kenya",
+      "group": "ICC",
+      "description": "Kenya is governed as a Electoral democracy. Top exports include tea, cut flowers, garments, gold, tropical fruits. Key trading partners are Uganda, USA, UAE/Netherlands. External debt is $33.484 billion. Corruption Index: 32, HDI: 0.601.",
+      "hdi": 0.601,
+      "debt": null
+    },
+    {
+      "id": "Libya",
+      "group": "ICC",
+      "description": "Libya is governed as a Closed autocracy. Top exports include crude petroleum, natural gas, refined petroleum, gold, scrap iron. Key trading partners are Italy, Germany, Spain. External debt is nan. Corruption Index: 13, HDI: 0.746.",
+      "hdi": 0.746,
+      "debt": null
+    },
+    {
+      "id": "Mali",
+      "group": "ICC",
+      "description": "Mali is governed as a Closed autocracy. Top exports include gold, cotton, oil seeds, fertilizers, gum resins. Key trading partners are UAE, Switzerland, Australia. External debt is $4.535 billion. Corruption Index: 27, HDI: 0.410.",
+      "hdi": 0.41,
+      "debt": null
+    },
+    {
+      "id": "Georgia",
+      "group": "ICC",
+      "description": "Georgia is governed as a Electoral democracy. Top exports include cars, copper ore, electricity, garments, wine. Key trading partners are Azerbaijan, Turkey, Armenia. External debt is $9.791 billion. Corruption Index: 53, HDI: 0.814.",
+      "hdi": 0.814,
+      "debt": null
+    },
+    {
+      "id": "Palestine",
+      "group": "ICC",
+      "description": "Palestine is governed as a Electoral autocracy. Top exports include nan. Key trading partners are nan. External debt is nan. Corruption Index: nan, HDI: 0.716.",
+      "hdi": 0.716,
+      "debt": null
+    },
+    {
+      "id": "Israel",
+      "group": "ICC",
+      "description": "Israel is governed as a Electoral democracy. Top exports include integrated circuits, diamonds, broadcasting equipment, medical instruments, refined petroleum. Key trading partners are USA, China, Ireland. External debt is nan. Corruption Index: 64, HDI: 0.915.",
+      "hdi": 0.915,
+      "debt": null
+    },
+    {
+      "id": "Russia",
+      "group": "ICC",
+      "description": "Russia is governed as a Electoral autocracy. Top exports include crude petroleum, refined petroleum, natural gas, coal, fertilizers. Key trading partners are China, India, Turkey. External debt is $135.301 billion. Corruption Index: 22, HDI: 0.821.",
+      "hdi": 0.821,
+      "debt": null
+    },
+    {
+      "id": "Uganda",
+      "group": "ICC",
+      "description": "Uganda is governed as a Electoral autocracy. Top exports include gold, coffee, fish, refined petroleum, tobacco. Key trading partners are India, UAE, Hong Kong. External debt is $11.436 billion. Corruption Index: 26, HDI: 0.548.",
+      "hdi": 0.548,
+      "debt": null
+    },
+    {
+      "id": "China",
+      "group": "Power",
+      "description": "No description available."
+    },
+    {
+      "id": "UAE",
+      "group": "Power",
+      "description": "No description available."
+    },
+    {
+      "id": "USA",
+      "group": "Power",
+      "description": "No description available."
+    },
+    {
+      "id": "Italy",
+      "group": "Power",
+      "description": "No description available."
+    },
+    {
+      "id": "Azerbaijan",
+      "group": "Power",
+      "description": "No description available."
+    },
+    {
+      "id": "India",
+      "group": "Power",
+      "description": "No description available."
+    }
+  ],
+  "links": [
+    {
+      "source": "DR Congo",
+      "target": "China",
+      "type": "debt"
+    },
+    {
+      "source": "Central African Republic",
+      "target": "UAE",
+      "type": "debt"
+    },
+    {
+      "source": "Sudan",
+      "target": "UAE",
+      "type": "debt"
+    },
+    {
+      "source": "Kenya",
+      "target": "Uganda",
+      "type": "debt"
+    },
+    {
+      "source": "Libya",
+      "target": "Italy",
+      "type": "debt"
+    },
+    {
+      "source": "Mali",
+      "target": "UAE",
+      "type": "debt"
+    },
+    {
+      "source": "Georgia",
+      "target": "Azerbaijan",
+      "type": "debt"
+    },
+    {
+      "source": "Palestine",
+      "target": "USA",
+      "type": "aid"
+    },
+    {
+      "source": "Israel",
+      "target": "USA",
+      "type": "aid"
+    },
+    {
+      "source": "Russia",
+      "target": "China",
+      "type": "investment"
+    },
+    {
+      "source": "Uganda",
+      "target": "India",
+      "type": "trade"
+    }
+  ]
+}

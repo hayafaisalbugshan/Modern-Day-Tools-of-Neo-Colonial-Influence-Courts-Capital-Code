@@ -1,0 +1,74 @@
+/* File: src/components/IccTimeline.css */
+
+.timeline-container {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  width: 100vw;
+  max-width: 97vw;
+  padding: 2rem 0;
+  background-color: #111827;
+  color: #f9fafb;
+  border: 1px solid #ffffff;
+}
+
+.timeline-container h3 {
+  font-size: 1.8rem;
+  color: #f9fafb;
+  margin-bottom: 2rem;
+}
+
+#timeline {
+  width: 100vw;
+  height: 400px;
+  position: relative;
+  overflow-x: auto;
+}
+
+
+.timeline-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  font-size: 0.85rem;
+  padding: 0.6rem 0.9rem;
+  border-radius: 5px;
+  white-space: pre-wrap;
+  max-width: 300px;
+  z-index: 999;
+  transition: opacity 0.15s ease;
+}
+
+.timeline-legend {
+  margin-top: 2rem;
+  font-size: 0.95rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  color: #f3f4f6;
+}
+
+.timeline-legend .dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.timeline-legend .icc {
+  background-color: #f43f5e; /* vivid red */
+}
+
+.timeline-legend .world {
+  background-color: #60a5fa; /* brighter blue */
+}
+
+#timeline text {
+  fill: #e2e8f0; /* light gray-blue for better contrast */
+  font-size: 0.9rem;
+}
+
+
+  

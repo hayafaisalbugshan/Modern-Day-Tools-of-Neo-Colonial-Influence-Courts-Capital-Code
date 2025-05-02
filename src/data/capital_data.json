@@ -1,0 +1,110 @@
+[
+  {
+    "country":"Democratic Republic of the Congo",
+    "top_exports":"refined copper, cobalt, copper ore, raw copper, crude petroleum",
+    "trading_partners":"China, UAE, India ",
+    "fdi_inflow":"3.6%",
+    "external_debt":"$8.566 billion",
+    "corruption_index":"20",
+    "hdi":"0.481"
+  },
+  {
+    "country":"Central African Republic",
+    "top_exports":"gold, wood, diamonds, vehicle parts\/accessories, cotton",
+    "trading_partners":"UAE, China, France",
+    "fdi_inflow":"1.5%",
+    "external_debt":"$776.149 million",
+    "corruption_index":"24",
+    "hdi":"0.387"
+  },
+  {
+    "country":"Sudan",
+    "top_exports":"crude petroleum, gold, oil seeds, sheep and goats, ground nuts",
+    "trading_partners":"UAE, China, Saudi Arabia",
+    "fdi_inflow":"1.1%",
+    "external_debt":"$21.878 billion",
+    "corruption_index":"15",
+    "hdi":"0.516"
+  },
+  {
+    "country":"Kenya",
+    "top_exports":"tea, cut flowers, garments, gold, tropical fruits",
+    "trading_partners":"Uganda, USA, UAE\/Netherlands",
+    "fdi_inflow":"0.7%",
+    "external_debt":"$33.484 billion",
+    "corruption_index":"32",
+    "hdi":"0.601"
+  },
+  {
+    "country":"Libya",
+    "top_exports":"crude petroleum, natural gas, refined petroleum, gold, scrap iron",
+    "trading_partners":"Italy, Germany, Spain",
+    "fdi_inflow":"1.7%",
+    "external_debt":null,
+    "corruption_index":"13",
+    "hdi":"0.746"
+  },
+  {
+    "country":"Mali",
+    "top_exports":"gold, cotton, oil seeds, fertilizers, gum resins",
+    "trading_partners":"UAE, Switzerland, Australia",
+    "fdi_inflow":"3.4%",
+    "external_debt":"$4.535 billion",
+    "corruption_index":"27",
+    "hdi":"0.410"
+  },
+  {
+    "country":"Georgia",
+    "top_exports":"cars, copper ore, electricity, garments, wine",
+    "trading_partners":"Azerbaijan, Turkey, Armenia",
+    "fdi_inflow":"6.8%",
+    "external_debt":"$9.791 billion",
+    "corruption_index":"53",
+    "hdi":"0.814"
+  },
+  {
+    "country":"Palestine",
+    "top_exports":null,
+    "trading_partners":null,
+    "fdi_inflow":null,
+    "external_debt":null,
+    "corruption_index":null,
+    "hdi":"0.716"
+  },
+  {
+    "country":"Israel",
+    "top_exports":"integrated circuits, diamonds, broadcasting equipment, medical instruments, refined petroleum",
+    "trading_partners":"USA, China, Ireland",
+    "fdi_inflow":"2.9%",
+    "external_debt":null,
+    "corruption_index":"64",
+    "hdi":"0.915"
+  },
+  {
+    "country":"Russia",
+    "top_exports":"crude petroleum, refined petroleum, natural gas, coal, fertilizers",
+    "trading_partners":"China, India, Turkey",
+    "fdi_inflow":"-0.5%",
+    "external_debt":"$135.301 billion",
+    "corruption_index":"22",
+    "hdi":"0.821"
+  },
+  {
+    "country":"Uganda",
+    "top_exports":"gold, coffee, fish, refined petroleum, tobacco",
+    "trading_partners":"India, UAE, Hong Kong",
+    "fdi_inflow":"6.1%",
+    "external_debt":"$11.436 billion",
+    "corruption_index":"26",
+    "hdi":"0.548"
+  },
+  {
+    "country":"**removed 35 duplicates",
+    "top_exports":null,
+    "trading_partners":null,
+    "fdi_inflow":null,
+    "external_debt":null,
+    "corruption_index":"0 means highly corrupt and 100 means very clean.",
+    "hdi":null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "country": "Nigeria",
+    "cost": 10420000
+  },
+  {
+    "country": "Uganda",
+    "cost": 8100000
+  },
+  {
+    "country": "Ethiopia",
+    "cost": 5900000
+  },
+  {
+    "country": "Sudan",
+    "cost": 4700000
+  },
+  {
+    "country": "Mali",
+    "cost": 2100000
+  },
+  {
+    "country": "Central African Republic",
+    "cost": 1850000
+  },
+  {
+    "country": "Kenya",
+    "cost": 1630000
+  },
+  {
+    "country": "Libya",
+    "cost": 1500000
+  },
+  {
+    "country": "Palestine",
+    "cost": 1200000
+  },
+  {
+    "country": "Russia",
+    "cost": 11200000
+  },
+  {
+    "country": "Israel",
+    "cost": 950000
+  }
+]

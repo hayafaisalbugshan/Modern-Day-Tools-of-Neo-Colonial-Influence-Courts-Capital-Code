@@ -1,0 +1,68 @@
+[
+  {
+    "Country": "Libya",
+    "open_case_count": 2.0,
+    "past_case_count": 9,
+    "total_case_count": 11.0
+  },
+  {
+    "Country": "Central African Republic",
+    "open_case_count": 3.0,
+    "past_case_count": 5,
+    "total_case_count": 8.0
+  },
+  {
+    "Country": "Russia",
+    "open_case_count": 4.0,
+    "past_case_count": 2,
+    "total_case_count": 6.0
+  },
+  {
+    "Country": "Sudan",
+    "open_case_count": 1.0,
+    "past_case_count": 3,
+    "total_case_count": 4.0
+  },
+  {
+    "Country": "Israel",
+    "open_case_count": 2.0,
+    "past_case_count": 1,
+    "total_case_count": 3.0
+  },
+  {
+    "Country": "Mali",
+    "open_case_count": 1.0,
+    "past_case_count": 2,
+    "total_case_count": 3.0
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "open_case_count": 0.0,
+    "past_case_count": 3,
+    "total_case_count": 3.0
+  },
+  {
+    "Country": "Georgia",
+    "open_case_count": 0.0,
+    "past_case_count": 3,
+    "total_case_count": 3.0
+  },
+  {
+    "Country": "Uganda",
+    "open_case_count": 1.0,
+    "past_case_count": 1,
+    "total_case_count": 2.0
+  },
+  {
+    "Country": "Kenya",
+    "open_case_count": 0.0,
+    "past_case_count": 2,
+    "total_case_count": 2.0
+  },
+  {
+    "Country": "Palestine",
+    "open_case_count": 0.0,
+    "past_case_count": 1,
+    "total_case_count": 1.0
+  }
+]

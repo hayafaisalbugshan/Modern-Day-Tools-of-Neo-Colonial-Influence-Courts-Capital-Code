@@ -1,0 +1,271 @@
+{
+  "nodes": [
+    {
+      "id": "China",
+      "group": "Colonizer",
+      "description": "China is a major trading partner and likely lender."
+    },
+    {
+      "id": "Democratic Republic of the Congo",
+      "group": "Debtor",
+      "description": "Democratic Republic of the Congo has an HDI of 0.481 and owes approximately $8.566 billion to China."
+    },
+    {
+      "id": "UAE",
+      "group": "Colonizer",
+      "description": "UAE is a major trading partner and likely lender."
+    },
+    {
+      "id": "Central African Republic",
+      "group": "Debtor",
+      "description": "Central African Republic has an HDI of 0.387 and owes approximately $776.149 million to UAE."
+    },
+    {
+      "id": "Sudan",
+      "group": "Debtor",
+      "description": "Sudan has an HDI of 0.516 and owes approximately $21.878 billion to UAE."
+    },
+    {
+      "id": "Uganda",
+      "group": "Colonizer",
+      "description": "Uganda is a major trading partner and likely lender."
+    },
+    {
+      "id": "Kenya",
+      "group": "Debtor",
+      "description": "Kenya has an HDI of 0.601 and owes approximately $33.484 billion to Uganda."
+    },
+    {
+      "id": "Mali",
+      "group": "Debtor",
+      "description": "Mali has an HDI of 0.41 and owes approximately $4.535 billion to UAE."
+    },
+    {
+      "id": "Azerbaijan",
+      "group": "Colonizer",
+      "description": "Azerbaijan is a major trading partner and likely lender."
+    },
+    {
+      "id": "Georgia",
+      "group": "Debtor",
+      "description": "Georgia has an HDI of 0.814 and owes approximately $9.791 billion to Azerbaijan."
+    },
+    {
+      "id": "Russia",
+      "group": "Debtor",
+      "description": "Russia has an HDI of 0.821 and owes approximately $135.301 billion to China."
+    },
+    {
+      "id": "India",
+      "group": "Colonizer",
+      "description": "India is a major trading partner and likely lender."
+    },
+    {
+      "id": "France",
+      "group": "Colonizer",
+      "description": "France is a major trading partner and likely lender."
+    },
+    {
+      "id": "Saudi Arabia",
+      "group": "Colonizer",
+      "description": "Saudi Arabia is a major trading partner and likely lender."
+    },
+    {
+      "id": "USA",
+      "group": "Colonizer",
+      "description": "USA is a major trading partner and likely lender."
+    },
+    {
+      "id": "UAE/Netherlands",
+      "group": "Colonizer",
+      "description": "UAE/Netherlands is a major trading partner and likely lender."
+    },
+    {
+      "id": "Switzerland",
+      "group": "Colonizer",
+      "description": "Switzerland is a major trading partner and likely lender."
+    },
+    {
+      "id": "Australia",
+      "group": "Colonizer",
+      "description": "Australia is a major trading partner and likely lender."
+    },
+    {
+      "id": "Turkey",
+      "group": "Colonizer",
+      "description": "Turkey is a major trading partner and likely lender."
+    },
+    {
+      "id": "Armenia",
+      "group": "Colonizer",
+      "description": "Armenia is a major trading partner and likely lender."
+    },
+    {
+      "id": "Hong Kong",
+      "group": "Colonizer",
+      "description": "Hong Kong is a major trading partner and likely lender."
+    }
+  ],
+  "links": [
+    {
+      "source": "China",
+      "target": "Democratic Republic of the Congo",
+      "debt": 8566000000.000001
+    },
+    {
+      "source": "UAE",
+      "target": "Central African Republic",
+      "debt": 776149000.0
+    },
+    {
+      "source": "UAE",
+      "target": "Sudan",
+      "debt": 21878000000.0
+    },
+    {
+      "source": "Uganda",
+      "target": "Kenya",
+      "debt": 33484000000.0
+    },
+    {
+      "source": "UAE",
+      "target": "Mali",
+      "debt": 4535000000.0
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Georgia",
+      "debt": 9791000000.0
+    },
+    {
+      "source": "China",
+      "target": "Russia",
+      "debt": 135300999999.99998
+    },
+    {
+      "source": "India",
+      "target": "Uganda",
+      "debt": 11436000000.0
+    },
+    {
+      "source": "China",
+      "target": "Democratic Republic of the Congo",
+      "debt": 8566000000.000001
+    },
+    {
+      "source": "UAE",
+      "target": "Democratic Republic of the Congo",
+      "debt": 8566000000.000001
+    },
+    {
+      "source": "India",
+      "target": "Democratic Republic of the Congo",
+      "debt": 8566000000.000001
+    },
+    {
+      "source": "UAE",
+      "target": "Central African Republic",
+      "debt": 776149000.0
+    },
+    {
+      "source": "China",
+      "target": "Central African Republic",
+      "debt": 776149000.0
+    },
+    {
+      "source": "France",
+      "target": "Central African Republic",
+      "debt": 776149000.0
+    },
+    {
+      "source": "UAE",
+      "target": "Sudan",
+      "debt": 21878000000.0
+    },
+    {
+      "source": "China",
+      "target": "Sudan",
+      "debt": 21878000000.0
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Sudan",
+      "debt": 21878000000.0
+    },
+    {
+      "source": "Uganda",
+      "target": "Kenya",
+      "debt": 33484000000.0
+    },
+    {
+      "source": "USA",
+      "target": "Kenya",
+      "debt": 33484000000.0
+    },
+    {
+      "source": "UAE/Netherlands",
+      "target": "Kenya",
+      "debt": 33484000000.0
+    },
+    {
+      "source": "UAE",
+      "target": "Mali",
+      "debt": 4535000000.0
+    },
+    {
+      "source": "Switzerland",
+      "target": "Mali",
+      "debt": 4535000000.0
+    },
+    {
+      "source": "Australia",
+      "target": "Mali",
+      "debt": 4535000000.0
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Georgia",
+      "debt": 9791000000.0
+    },
+    {
+      "source": "Turkey",
+      "target": "Georgia",
+      "debt": 9791000000.0
+    },
+    {
+      "source": "Armenia",
+      "target": "Georgia",
+      "debt": 9791000000.0
+    },
+    {
+      "source": "China",
+      "target": "Russia",
+      "debt": 135300999999.99998
+    },
+    {
+      "source": "India",
+      "target": "Russia",
+      "debt": 135300999999.99998
+    },
+    {
+      "source": "Turkey",
+      "target": "Russia",
+      "debt": 135300999999.99998
+    },
+    {
+      "source": "India",
+      "target": "Uganda",
+      "debt": 11436000000.0
+    },
+    {
+      "source": "UAE",
+      "target": "Uganda",
+      "debt": 11436000000.0
+    },
+    {
+      "source": "Hong Kong",
+      "target": "Uganda",
+      "debt": 11436000000.0
+    }
+  ]
+}
